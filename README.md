@@ -295,19 +295,19 @@ There are several input bindings available for configuring the map.
 ```
 
 #### [leafletOptions]
-Input binding for the initial leaflet map options (see [Leaflet's](http://leafletjs.com/reference-1.3.0.html#map-option) docs). These options can only be set initially because they are used to create the map. Later changes are ignored.
+Input binding for the initial leaflet map options (see [Leaflet's](http://leafletjs.com/reference.html#map-option) docs). These options can only be set initially because they are used to create the map. Later changes are ignored.
 
 #### [leafletPanOptions]
-Input binding for pan options (see [Leaflet's](http://leafletjs.com/reference-1.3.0.html#pan-options) docs). These options are stored and used whenever pan operations are invoked.
+Input binding for pan options (see [Leaflet's](http://leafletjs.com/reference.html#pan-options) docs). These options are stored and used whenever pan operations are invoked.
 
 #### [leafletZoomOptions]
-Input binding for zoom options (see [Leaflet's](http://leafletjs.com/reference-1.3.0.html#zoom-options) docs). These options are stored and used whenever zoom operations are invoked.
+Input binding for zoom options (see [Leaflet's](http://leafletjs.com/reference.html#zoom-options) docs). These options are stored and used whenever zoom operations are invoked.
 
 #### [leafletZoomPanOptions]
-Input binding for zoom/pan options (see [Leaflet's](http://leafletjs.com/reference-1.3.0.html#zoom/pan-options) docs). These options are stored and used whenever zoom/pan operations are invoked.
+Input binding for zoom/pan options (see [Leaflet's](http://leafletjs.com/reference.html#zoom/pan-options) docs). These options are stored and used whenever zoom/pan operations are invoked.
 
 #### [leafletFitBoundsOptions]
-Input binding for FitBounds options (see [Leaflet's](http://leafletjs.com/reference-1.3.0.html#fitbounds-options) docs). These options are stored and used whenever FitBounds operations are invoked.
+Input binding for FitBounds options (see [Leaflet's](http://leafletjs.com/reference.html#fitbounds-options) docs). These options are stored and used whenever FitBounds operations are invoked.
 
 
 ### Dynamically changing zoom level, center, fitBounds, etc.
