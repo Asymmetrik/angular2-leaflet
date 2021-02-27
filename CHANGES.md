@@ -1,5 +1,8 @@
 # Changelog
 
+## 9.0
+Angular 11
+
 ## 8.0
 Support for Angular.io 10.
 
